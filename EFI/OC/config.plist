@@ -820,7 +820,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 igfxonln=1 igfxagdc=0 darkwake=3 alcid=1 alcdelay=1000</string>
+				<string>shikigva=1 igfxagdc=0 alcid=1 alcdelay=1000</string>
 				<key>#csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -887,9 +887,9 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02013310QXPHCDA8</string>
+			<string>C07850200J9KXPG1H</string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>1801</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
@@ -897,11 +897,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CHFZBPN5T</string>
+			<string>C07XT0L9JYVX</string>
 			<key>SystemUUID</key>
-			<string>5AAC3A0B-F7A9-4688-A250-EC8505B07037</string>
+			<string>333A46B6-111B-4427-9FE3-1C7CFE1CF1E6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
